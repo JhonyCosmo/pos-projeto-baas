@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "authors": [
+    "Vanjhony Cosmo <jhonycosmo@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularfire": "2.3.0",
+    "angular-ui-router": "^1.0.22"
+  }
+}
